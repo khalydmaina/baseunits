@@ -53,7 +53,7 @@ Units.parseAmount("0.0000001", 6);    // throws: only has 6 decimal places
 
 ```bash
 python3 -m http.server      # then open http://localhost:8000
-node --test tests/          # unit tests
+node --test tests/units.test.js   # unit tests
 ```
 
 ## Notes
